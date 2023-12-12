@@ -5,6 +5,7 @@ permalink: /
 
 ---
 
+### 实验室负责人: 陈洁 邮箱: jchen@cs.ecnu.edu.cn
 
 ### 实验室的研究领域是密码学与信息安全，主要关注身份基加密IBE（Identity-Based Encryption）、属性基加密ABE（Attribute-Based Encryption）、内积加密（Inner-product Encryption）等新型公钥密码系统的研究。
 
