@@ -41,9 +41,9 @@ layout: post
 
    ***主要技术：***
 
-       1. 全新的从合数阶群至素数阶群的模拟技术。
+   1. 全新的从合数阶群至素数阶群的模拟技术。
     
-       2. 利用谓词编码将ABE的素数阶群下的构造模块化。
+   2. 利用谓词编码将ABE的素数阶群下的构造模块化。
 
    
 
@@ -51,34 +51,35 @@ layout: post
 
    ​	有界ABE：在系统开始的时候就设定属性空间。无界ABE：无需在系统开始的时候就设定属性空间。无界ABE方便更改属性空间。
 
-6. [Unbounded ABE via Bilinear Entropy Expansion, Revisited (EUROCRYPT 2018)](https://link.springer.com/chapter/10.1007/978-3-319-78381-9_19)
+7. [Unbounded ABE via Bilinear Entropy Expansion, Revisited (EUROCRYPT 2018)](https://link.springer.com/chapter/10.1007/978-3-319-78381-9_19)
 
    提出新的“熵膨胀引理”，大幅提高了无界ABE的效率
 
    ***主要技术：***
-   　　提出新的“熵膨胀引理”，使得只需要用很少个数值就可以表达任意属性。
+
+   提出新的“熵膨胀引理”，使得只需要用很少个数值就可以表达任意属性。
 
    ***其他相关成果：***
 
-7. [ABE with Tag Made Easy (ASIACRYPT 2017)](https://link.springer.com/chapter/10.1007/978-3-319-70697-9_2)
+9. [ABE with Tag Made Easy (ASIACRYPT 2017)](https://link.springer.com/chapter/10.1007/978-3-319-70697-9_2)
 
-8. [Improved Fully Adaptive Decentralized MA-ABE for NC1 from MDDH (ASIACRYPT 2023)]()
+10. [Improved Fully Adaptive Decentralized MA-ABE for NC1 from MDDH (ASIACRYPT 2023)]()
 
-9. [The Relation and Transformation Between HIPE and SE (Designs Codes and Cryptography 2014)]()
+11. [The Relation and Transformation Between HIPE and SE (Designs Codes and Cryptography 2014)]()
 
-10. [Spatial Encryption Supporting Non-Monotone Access Structure (Designs Codes and Cryptography 2014)]()
+12. [Spatial Encryption Supporting Non-Monotone Access Structure (Designs Codes and Cryptography 2014)]()
 
-11. [Extended Dual System Group and Shorter Unbounded Hierarchical Identity Based Encryption (Designs, Codes and Cryptography)](https://link.springer.com/article/10.1007/s10623-015-0117-z)
+13. [Extended Dual System Group and Shorter Unbounded Hierarchical Identity Based Encryption (Designs, Codes and Cryptography)](https://link.springer.com/article/10.1007/s10623-015-0117-z)
 
-12. [Leakage-resilient Attribute Based Encryption in Prime-order Groups via Predicate Encodings (Designs, Codes and Cryptography)](https://link.springer.com/article/10.1007/s10623-017-0399-4)
+14. [Leakage-resilient Attribute Based Encryption in Prime-order Groups via Predicate Encodings (Designs, Codes and Cryptography)](https://link.springer.com/article/10.1007/s10623-017-0399-4)
 
-13. [Shorter IBE and Signatures via Asymmetric Pairings (Pairing 2012)](https://link.springer.com/chapter/10.1007/978-3-642-36334-4_8)
+15. [Shorter IBE and Signatures via Asymmetric Pairings (Pairing 2012)](https://link.springer.com/chapter/10.1007/978-3-642-36334-4_8)
 
-14. [Doubly Spatial Encryption from DBDH (Theoretical Computer Science)](https://www.sciencedirect.com/science/article/pii/S0304397514004277)
+16. [Doubly Spatial Encryption from DBDH (Theoretical Computer Science)](https://www.sciencedirect.com/science/article/pii/S0304397514004277)
 
-15. [Public key encryption with equality test via hash proof system (Theoretical Computer Science)](https://www.sciencedirect.com/science/article/pii/S0304397519303822)
+17. [Public key encryption with equality test via hash proof system (Theoretical Computer Science)](https://www.sciencedirect.com/science/article/pii/S0304397519303822)
 
-16. [Non-Zero Inner Product Encryption with Short Ciphertexts and Private Keys (SCN 2016)](https://link.springer.com/chapter/10.1007/978-3-319-44618-9_2)
+18. [Non-Zero Inner Product Encryption with Short Ciphertexts and Private Keys (SCN 2016)](https://link.springer.com/chapter/10.1007/978-3-319-44618-9_2)
 
 
 
@@ -91,7 +92,8 @@ layout: post
     提出了“半适应性semi-adaptive安全模型”
 
     ***主要技术：***
-    　　在主公钥（或者公共参数）被给出之后再确认挑战属性。
+
+    　在主公钥（或者公共参数）被给出之后再确认挑战属性。
 
 
 
@@ -104,7 +106,8 @@ layout: post
     对full attribute-hiding IPE的构造进行了改进，效率得到了提高
 
     ***主要技术：***
-    　　对于MDDH假设的进一步的详细的理论分析。
+
+    对于MDDH假设的进一步的详细的理论分析。
 
 
 
