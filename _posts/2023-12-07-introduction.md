@@ -23,7 +23,7 @@ layout: post
 
 ​加密方案构造有两个基本要求：1. 安全性  2. 效率。 在保证高级别的安全性前提下，尽可能地提升方案的效率。
 
-​&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;​&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Improved Dual System ABE in Prime-Order Groups via Predicate Encodings (EUROCRYPT 2015)](https://link.springer.com/chapter/10.1007/978-3-662-46803-6_20) 使用模块化的构造和多项创新技术，使ABE方案效率提升25%-50%。
+​&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;​[Improved Dual System ABE in Prime-Order Groups via Predicate Encodings (EUROCRYPT 2015)](https://link.springer.com/chapter/10.1007/978-3-662-46803-6_20) 使用模块化的构造和多项创新技术，使ABE方案效率提升25%-50%。
 
 
 
@@ -31,7 +31,7 @@ layout: post
 
 ​		有界ABE：在系统开始的时候就设定属性空间。无界ABE：无需在系统开始的时候就设定属性空间。无界ABE方便更改属性空间。
 
-​		[Unbounded ABE via Bilinear Entropy Expansion, Revisited (EUROCRYPT 2018)](https://link.springer.com/chapter/10.1007/978-3-319-78381-9_19) 提出新的“熵膨胀引理”，使得只需要用很少个数值就可以表达任意属性，大幅提高了无界ABE的效率
+​​&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Unbounded ABE via Bilinear Entropy Expansion, Revisited (EUROCRYPT 2018)](https://link.springer.com/chapter/10.1007/978-3-319-78381-9_19) 提出新的“熵膨胀引理”，使得只需要用很少个数值就可以表达任意属性，大幅提高了无界ABE的效率
 
 
 
