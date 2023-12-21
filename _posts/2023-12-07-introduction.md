@@ -7,7 +7,7 @@ layout: post
 
 ---
 
-# [身份基加密](https://crypto2013.com/jekyll/2023-12-10-ibe.html)
+# [一、身份基加密](https://crypto2013.com/jekyll/2023-12-10-ibe.html)
 
 ## 	   ***代表性成果1：身份基加密紧归约问题***
 
@@ -17,7 +17,7 @@ layout: post
 
 <br>
 
-# [属性基加密](https://crypto2013.com/jekyll/2023-12-11-abe.html)
+# [二、属性基加密](https://crypto2013.com/jekyll/2023-12-11-abe.html)
 
 ## 		***代表性成果2：属性基加密ABE构造***
 
@@ -43,7 +43,7 @@ layout: post
 
 <br>
 
-# [身份匹配加密IB-ME](https://crypto2013.com/jekyll/2023-12-12-ibme.html)
+# [三、身份匹配加密IB-ME](https://crypto2013.com/jekyll/2023-12-12-ibme.html)
 
 ## 	***代表性成果6：身份匹配加密IB-ME构造***
 
@@ -53,7 +53,7 @@ layout: post
 
 <br>
 
-# [内积加密IPE](https://crypto2013.com/jekyll/2023-12-12-ipe.html)
+# [四、内积加密IPE](https://crypto2013.com/jekyll/2023-12-12-ipe.html)
 
 ## 	***代表性成果5：内积加密IPE构造***
 
